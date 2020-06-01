@@ -163,6 +163,7 @@
 - what is it about
 - id like to know more about it
 - can you tell me about the subject [41004](code)
+- can you tell me about [04277?](code)
 
 ## intent:goodbye
 - Bye
@@ -284,12 +285,7 @@
 - [A-Z|a-z]{0,3}\d{5,6}
 
 ## lookup:types
-- courses
-- majors
-- sub-majors
-- streams
-- choice blocks
-- subjects
+  data/types
 
-## lookup:name
+## lookup:entities.txt
   data/entities.txt
