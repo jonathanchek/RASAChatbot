@@ -41,10 +41,6 @@ slots:
   code:
     type: text
 templates:
-  utter_code_does_not_exist:
-  - text: "{code} does not exist in the UTS directory."
-  - text: "Sorry, I could not find {code} in the UTS directory."
-  - text: "I cannot find {code} in the UTS directory."
   utter_fallback:
   - text: "Sorry I did not recognise that input. Can you try again?"
   - text: "Sorry I did not get that. Could you try that again?"

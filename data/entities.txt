@@ -92,6 +92,18 @@ BSc in IT Diploma Professional Practice
 BsC in IT Dip Prof Prac
 Bachelor of Science in Information Technology Dip Prof Prac
 BSc in IT Diploma in Information Technology Professional Practice
+Master of Information Technology
+Master of IT
+Graduate Certificate in Information Technology
+Master of Information Technology (Extension)
+Master of IT (Extension)
+Master of Information Technology (Advanced)
+MAster of IT (Advanced)
+Graduate Certificate in Information Technology Studies
+Graduate Certificate in IT Studies
+Master of Science in Internetworking
+Graduate Certificate in Internetworking
+Master of Science in Internetworking (Extension)
 Switzerland Language and Culture
 Chinese Language and Culture
 Japanese Language and Culture
@@ -657,3 +669,169 @@ Business Information Systems Management
 Enterprise Systems Development
 Networking and Cybersecurity
 Operations Research
+Choice (No specified major)
+Major choice (IT)
+Cyber Security choice
+Options (BIS)
+Options (Data Analytics)
+Options (Multimedia)
+Options (Internetworking)
+Options (Software development)
+IT Project + Elective choice
+Electives (Information Technology)
+Sub-major choice (IT)
+Choice (No specified sub-major)
+Options (BIS)
+Options (Data Analytics)
+Options (Multimedia)
+Options (Internetworking)
+Options (Software development)
+Major choice (IT)
+Research Project choice
+Choice (No specified major)
+Cyber Security choice
+Options (BIS)
+Options (Data Analytics)
+Options (Multimedia)
+Options (Internetworking)
+Options (Software development)
+Electives (Information Technology)
+Elective (Information Technology)
+Stream choice (PG IT)
+Cyber Security choice
+Cyber Security choice
+Core subjects (BIS)
+Options (BIS)
+Core subjects (Data Analytics)
+Options (Data Analytics)
+Core subjects (Multimedia)
+Options (Multimedia)
+Core subject (Internetworking)
+Options (Internetworking)
+Core subjects (Software development)
+Options (Software development)
+Internetworking choice
+Research choice
+Internetworking core options
+Internetworking choice
+Business Information Systems
+Internetworking
+Data Analytics
+Interactive Media
+Software Development
+Cyber Security
+Cyber Security
+Business Information Systems
+Data Analytics
+Interactive Media
+Internetworking
+Software Development
+Cyber Security
+Business Information Systems
+Data Analytics
+Interactive Media
+Internetworking
+Software Development
+Core stream (IT)
+Cyber Security core subjects
+Core subjects (BIS)
+Core subjects (Data Analytics)
+Core subjects (Multimedia)
+Core subjects (Internetworking)
+Core subjects (Software Development)
+IT Project + Elective stream 1
+IT Project + Elective stream 2
+IT Project + Elective stream 3
+Project + three electives (one session)
+Project + three electives (two sessions)
+Project + one elective (two sessions)
+Core stream (MIT)
+Cyber Security stream
+Business Information Systems stream
+Data Analytics stream
+Interactive Media stream
+Internetworking stream
+Software Development stream
+Internetworking core
+Internetworking core
+Professional stream (Internetworking)
+Technology Research Preparation
+Project Management
+IT Professional and Society
+.NET Application Development
+3D Animation
+4G/5G Mobile Technologies
+Advanced Data Analytics Algorithms
+Advanced Database
+Advanced Image Synthesis Techniques
+Advanced Interaction Design
+Advanced Internet Programming
+Advanced Project Management
+Advanced Routing Principles
+Advanced Software Modelling
+Advances in Requirements Engineering
+Android Application Development
+Business Intelligence
+Business Intelligence for Decision Support
+Business Systems Design
+Cloud Computing and Software as a Service
+Cloud Security
+Commercial Environment of IT
+Computer Game Design
+Computer Graphics
+Cyber Security for Mobile Platforms
+Cybersecurity
+Data Mining and Visualisation
+Data Visualisation and Visual Analytics
+Digital Experience Design
+Digital Forensics
+Digital Media Technologies
+Economic Evaluation
+Enterprise Architecture Practice
+Enterprise Business Requirements
+Enterprise Software Testing
+Fundamentals of Data Analytics
+Fundamentals of Interaction Design
+Game Development
+Global Information Systems
+Human-centred Design Methods
+IT Contracts and Outsourcing
+Industry Project
+Information Systems Architecture Design
+Information Systems Strategy
+Infrastructure for Cloud Computing
+Interactive Arts
+Interactive Media
+Internet Programming
+Introduction to IT Management
+IoT Security
+Mobile Communications and Computing
+Multilayer Switched Networks
+Network Management
+People Management for IT
+Principles of Object-oriented Programming in C++
+Quality and Operations Management Systems
+Recent Advances in Information Systems
+Recent Advances in Software Engineering
+Social and Information Network Analysis
+Software Defined Networks
+Systems Administration
+Storytelling and Sense-making Studio
+Sustainability and Information Systems
+Systems Quality Management
+Technology Research Methods
+Technology and Innovation Management
+UNIX Systems Programming
+Value Chain Engineering Systems
+Wireless Sensor Networks
+e-Market Trading Technology
+iOS Application Development
+Network Security Appliances
+Digital Media Studio
+Research Project
+Research Project
+IT Graduate Project (24cp in one session)
+IT Graduate Project 24cp (Part 1 of 2) (2x12cp)
+IT Graduate Project 24cp (Part 2 of 2) (2x12cp)
+IT Graduate Project 36cp (Part 1 of 2) (2x18cp)
+IT Graduate Project 36cp (Part 2 of 2) (2x18cp)

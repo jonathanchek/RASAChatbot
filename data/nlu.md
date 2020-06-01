@@ -211,7 +211,6 @@
 - ello mate
 - heyhey
 - helloooo
-- hi
 
 ## intent:honours
 - Is the course a honours degree
@@ -285,7 +284,12 @@
 - [A-Z|a-z]{0,3}\d{5,6}
 
 ## lookup:types
-  data/types
+- courses
+- majors
+- sub-majors
+- streams
+- choice blocks
+- subjects
 
-## lookup:entities.txt
+## lookup:name
   data/entities.txt

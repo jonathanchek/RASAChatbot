@@ -366,3 +366,4 @@ class Directory:
         with open(path, 'w') as file:
             writer = csv.writer(file, delimiter='\n')
             writer.writerow(entities)
+

@@ -53,13 +53,17 @@ def init_code(dispatcher: CollectingDispatcher,
             value = tracker.get_slot('code')
 
         if not value:
+            print(d.courses())
             dispatcher.utter_template('utter_fallback', tracker)
             return None
 
         if input_type == 'name':
             results = d.search(value)
             if len(results) == 0:
-                dispatcher.utter_template("utter_code_does_not_exist", tracker, name=value)
+                courses = d.courses()
+                dispatcher.utter_message('I cannot find {}, sorry. Our courses are listed below:'.format(value))
+                for course in courses:
+                    dispatcher.utter_message('{}'.format(course))
                 return None
             elif len(results) > 1:
                 dispatcher.utter_message('There are multiple results for {}:'.format(value))
@@ -75,7 +79,10 @@ def init_code(dispatcher: CollectingDispatcher,
             try:
                 result = d[value]
             except KeyError:
-                dispatcher.utter_template("utter_code_does_not_exist", tracker, code=value)
+                courses = d.courses()
+                dispatcher.utter_message('I cannot find {}, sorry. Our courses are listed below:'.format(value))
+                for course in courses:
+                    dispatcher.utter_message('{}'.format(course))
                 return None
         else:
             dispatcher.utter_template('utter_fallback', tracker)
