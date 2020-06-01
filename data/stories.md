@@ -364,10 +364,3 @@
 * years_entities{"code":"12932","name":"Bachelor of Information Technology"}
  - slot{"code":"12932","name":"Bachelor of Information Technology"}
  - action_years_entities
-
-## undefined
-
-* greet
-- utter_greet
-* details{"code":"c04277?"}
- - utter_coursename

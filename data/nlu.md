@@ -164,7 +164,6 @@
 - id like to know more about it
 - can you tell me about the subject [41004](code)
 
-
 ## intent:goodbye
 - Bye
 - Goodbye
@@ -212,7 +211,6 @@
 - ello mate
 - heyhey
 - helloooo
-- hi
 
 ## intent:honours
 - Is the course a honours degree
@@ -240,8 +238,6 @@
 - Please tell me the [streams](type) at UTS
 - tell me about a [subject](type)
 - i need to know about a [major](type)
-- i need to know about the major
-- tell me about a [major](type)
 
 ## intent:thanks
 - Thanks
@@ -287,5 +283,13 @@
 ## regex::code
 - [A-Z|a-z]{0,3}\d{5,6}
 
-## lookup:entities.txt
+## lookup:types
+- courses
+- majors
+- sub-majors
+- streams
+- choice blocks
+- subjects
+
+## lookup:name
   data/entities.txt
