@@ -211,6 +211,7 @@
 - ello mate
 - heyhey
 - helloooo
+- hi
 
 ## intent:honours
 - Is the course a honours degree
@@ -238,6 +239,8 @@
 - Please tell me the [streams](type) at UTS
 - tell me about a [subject](type)
 - i need to know about a [major](type)
+- i need to know about the major
+- tell me about a [major](type)
 
 ## intent:thanks
 - Thanks
@@ -284,12 +287,7 @@
 - [A-Z|a-z]{0,3}\d{5,6}
 
 ## lookup:types
-- courses
-- majors
-- sub-majors
-- streams
-- choice blocks
-- subjects
+  data/types
 
-## lookup:name
+## lookup:entities.txt
   data/entities.txt
