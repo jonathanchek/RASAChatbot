@@ -286,8 +286,5 @@
 ## regex::code
 - [A-Z|a-z]{0,3}\d{5,6}
 
-## lookup:types
-  data/types
-
 ## lookup:entities.txt
   data/entities.txt
