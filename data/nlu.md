@@ -163,6 +163,11 @@
 - what is it about
 - id like to know more about it
 - can you tell me about the subject [41004](code)
+- can you tell me about [c04277?](code)
+- can you tall me about the [c04277?](code)
+- tell me about [04277](code)
+- tell me about Master of [Engineering Management](name)
+- tell me about [c04277](code)
 
 ## intent:goodbye
 - Bye
