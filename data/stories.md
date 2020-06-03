@@ -372,3 +372,4 @@
 * details{"code":"04277"}
     - slot{"code":"04277"}
     - action_details
+    - utter_04277

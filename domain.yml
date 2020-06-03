@@ -58,6 +58,8 @@ responses:
   - text: Ask me about the name, credit points, contents, ATAR requirements, duration,
       for any course at UTS. You can also ask me if the degree is a honours degree
       or a degree with a diploma in professional practice.
+  utter_04277:
+  - text: 04277 is Master of Engineering (Extension)
 actions:
 - action_years
 - action_years_entities
@@ -76,3 +78,4 @@ actions:
 - utter_what_can_you_do
 - utter_fallback
 - utter_name_does_not_exist
+- utter_04277
